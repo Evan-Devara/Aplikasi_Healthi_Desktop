@@ -1,4 +1,5 @@
-# Aplikasi_Healthi_Desktop <img src="https://user-images.githubusercontent.com/72756374/127510787-a82c8bef-a705-427d-8ba8-3b732cfa1cd2.png" width="100" height="100">
+# Aplikasi_Healthi_Desktop 
+<img src="https://user-images.githubusercontent.com/72756374/127510787-a82c8bef-a705-427d-8ba8-3b732cfa1cd2.png" width="400" height="400">
 Aplikasi ini merupakan pengembangan dari prototype aplikasi Health.i di mobile menjadi menduk desktop. Aplikasi ini dapat di jalankan dengan menggunakan python dengan run file main.py
 
 Aplikasi ini memiliki fitur seperti
