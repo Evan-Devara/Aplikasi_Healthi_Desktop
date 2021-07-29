@@ -14,6 +14,7 @@ Aplikasi ini rancang oleh:
 - Rohman Beny Riyanto           (19104060)
 
 ## Use Case
-![use case health i](https://user-images.githubusercontent.com/72756374/127512391-510000be-67e8-4405-8368-715a0803f5aa.png)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/72756374/127512391-510000be-67e8-4405-8368-715a0803f5aa.png" width="400" height="400"> </p>
 
 
