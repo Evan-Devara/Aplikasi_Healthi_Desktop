@@ -3,12 +3,7 @@ Aplikasi ini merupakan pengembangan dari prototype aplikasi Health.i di mobile m
 
 Aplikasi ini memiliki fitur seperti
  - Login
- - Data Pegawai
- - Data Jabatan dan Gaji
- - Data Penggajian
- - Tambah Data Pegawai, Jabatan dan Gaji
- - Edit Data Pegawai, Jabatan dan Gaji
- - Hapus Data Pegawai, Jabatan dan Gaji
+
 
 Aplikasi ini rancang oleh:
 - Emmanuel Genesius Evan Devara (19104005)
