@@ -1,4 +1,4 @@
- # Aplikasi_Healthi_Desktop
+## Aplikasi_Healthi_Desktop
 <p align="center">
  <img src="https://user-images.githubusercontent.com/72756374/127510787-a82c8bef-a705-427d-8ba8-3b732cfa1cd2.png" width="400" height="400">
  </p>
@@ -12,4 +12,8 @@ Aplikasi ini rancang oleh:
 - Emmanuel Genesius Evan Devara (19104005)
 - Rifqi Akmal Saputra           (19104022)
 - Rohman Beny Riyanto           (19104060)
+
+## Use Case
+![use case health i](https://user-images.githubusercontent.com/72756374/127512391-510000be-67e8-4405-8368-715a0803f5aa.png)
+
 
