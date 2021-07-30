@@ -32,27 +32,27 @@ Menu-menu tersebut sudah terkoneksi dengan database yang mana data akan ototmati
 <p align="center">
  Dialog Masuk Aplikasi</p>
 Saat membuka aplikasi ini akan ditampilkan dialog masuk, dimana sebagai awalan aplikasi dan perlu menekan "MASUK" untuk masuk ke aplikasi
-
- <p align="center">
-<img src="https://user-images.githubusercontent.com/72756374/127589775-2c5784cc-5b63-4412-98f0-9801445a0a39.png"> </p>
+ <p align="center"> <img src="https://user-images.githubusercontent.com/72756374/127589775-2c5784cc-5b63-4412-98f0-9801445a0a39.png"> </p>
+ 
  <p align="center">
  Menu Utama</p>
  Ini merupakan tampulan dari menu utama, dimana terdapat pilihan sub menu lainnya berupa menu (registrasi, obat, pembayaran) yang dapat diakses oleh pengguna
+ <p align="center"> <img src="https://user-images.githubusercontent.com/72756374/127589778-567a20f7-8f4d-4e17-8235-62e18847cfa2.png"> </p>
  
  <p align="center">
-<img src="https://user-images.githubusercontent.com/72756374/127589778-567a20f7-8f4d-4e17-8235-62e18847cfa2.png"> </p>
- <p align="center">
  Menu Registrasi</p>
- <p align="center">
-<img src="https://user-images.githubusercontent.com/72756374/127590175-fa541a5d-e061-4e99-8187-4fd9bda6e97e.jpg"> </p> 
+Dalam menu ini, pengguna dapat mengisi Nama Lengkap, Tanggal lahir, Alamat, Waktu Berobat serta Keluhan. Lalu dapat memilih "Daftar" untuk mendaftarkan diri
+ <p align="center"> <img src="https://user-images.githubusercontent.com/72756374/127590175-fa541a5d-e061-4e99-8187-4fd9bda6e97e.jpg"> </p> 
+ 
  <p align="center">
  Menu Obat</p>
- <p align="center">
-<img src="https://user-images.githubusercontent.com/72756374/127590197-52b225e5-4c26-4ade-bcb7-1555302607d8.jpg"> </p>
+ Dalam menu ini, pengguna dapat mengisi Nama Pasien, Diagnosa Sakit, serta Nama Obat. Lalu dapat memilih "Ambil Obat" untuk nanti diambil di suatu faskes yang dipilih.
+ <p align="center"> <img src="https://user-images.githubusercontent.com/72756374/127590197-52b225e5-4c26-4ade-bcb7-1555302607d8.jpg"> </p>
+ 
  <p align="center">
  Menu Pembayaran</p>
- <p align="center">
-<img src="https://user-images.githubusercontent.com/72756374/127591198-2c385c6e-bf71-4644-b16e-89faa9eb3d2e.jpg"></p>
+ Dalam menu ini, pengguna dapat memilih nama yang tadi di input sesuai database, Nama obat, lalu total harganya akan tertampil. Lalu dapat memilih "Bayar" untuk membayar.
+ <p align="center"> <img src="https://user-images.githubusercontent.com/72756374/127591198-2c385c6e-bf71-4644-b16e-89faa9eb3d2e.jpg"></p>
 
 ## Screenshoot Relasi UI dengan Database
 <p align="center"> DATA BASE rumah_sakit </p>
