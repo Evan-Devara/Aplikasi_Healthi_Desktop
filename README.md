@@ -29,7 +29,7 @@ Men-menu tersebut sudah terkoneksi dengan database yang mana data akan ototmatis
 <p align="center">
 <img src="https://user-images.githubusercontent.com/72756374/127587665-510ea14e-540c-449c-89ae-56b0313f6d27.png"> </p>
 
-## Screenshoot Aplikasi
+<p align="center"> ## Screenshoot Aplikasi </p>
 <p align="center">
  Dialog Masuk Aplikasi</p>
  <p align="center">
