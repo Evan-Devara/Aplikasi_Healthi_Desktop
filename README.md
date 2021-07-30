@@ -29,6 +29,8 @@ Men-menu tersebut sudah terkoneksi dengan database yang mana data akan ototmatis
 <img src="https://user-images.githubusercontent.com/72756374/127587665-510ea14e-540c-449c-89ae-56b0313f6d27.png"> </p>
 
 ## Screenshoot Aplikasi
+![Tubes 1](https://user-images.githubusercontent.com/72756374/127589775-2c5784cc-5b63-4412-98f0-9801445a0a39.png)
+![Tubes 2](https://user-images.githubusercontent.com/72756374/127589778-567a20f7-8f4d-4e17-8235-62e18847cfa2.png)
 
 
 
