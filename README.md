@@ -5,8 +5,8 @@
 
 <p align="center"> Aplikasi ini rancang oleh: </p>
 <p align="center"> - Emmanuel Genesius Evan Devara (19104005) </p>
-<p align="center"> - Rifqi Akmal Saputra           (19104022) </p>
-<p align="center"> - Rohman Beny Riyanto           (19104060) </p>
+<p align="center"> - Rifqi Akmal Saputra                     (19104022) </p>
+<p align="center"> - Rohman Beny Riyanto                      (19104060) </p>
 
 ## Tentang Aplikasi
 Aplikasi ini merupakan pengembangan dari prototype aplikasi Health.i di mobile menjadi bentuk desktop. Kami menggunakan aplikasi karena banyak masyarakat yang masih kesusahan dalam proses registrasi di suatu fasilitas kesehatan. Baik saat ingin menggunakan asuransi hingga proses saat ingin memindahkan kamar atau yang lainnya. Aplikasi ini dapat di jalankan dengan menggunakan python dengan run file main.py
