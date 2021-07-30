@@ -29,7 +29,7 @@ Men-menu tersebut sudah terkoneksi dengan database yang mana data akan ototmatis
 <p align="center">
 <img src="https://user-images.githubusercontent.com/72756374/127587665-510ea14e-540c-449c-89ae-56b0313f6d27.png"> </p>
 
-<p align="center"> ## Screenshoot Aplikasi </p>
+## Screenshoot Aplikasi
 <p align="center">
  Dialog Masuk Aplikasi</p>
  <p align="center">
@@ -50,6 +50,11 @@ Men-menu tersebut sudah terkoneksi dengan database yang mana data akan ototmatis
  Menu Pembayaran</p>
  <p align="center">
 <img src="https://user-images.githubusercontent.com/72756374/127591198-2c385c6e-bf71-4644-b16e-89faa9eb3d2e.jpg"></p>
+
+## Screenshoot Relasi UI dengan Database
+<p align="center"> Tabel Utama </p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/72756374/127591562-d0e241c6-ab6a-43f9-abb3-36e7bcd2eac7.JPG" ></p>
+
 
 
 
