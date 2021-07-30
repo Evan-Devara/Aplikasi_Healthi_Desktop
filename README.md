@@ -32,7 +32,7 @@ Men-menu tersebut sudah terkoneksi dengan database yang mana data akan ototmatis
 <p align="center">
  Dialog Masuk Aplikasi
 <img src="https://user-images.githubusercontent.com/72756374/127589775-2c5784cc-5b63-4412-98f0-9801445a0a39.png">
- Menu Utama
+Menu Utama
 <img src="https://user-images.githubusercontent.com/72756374/127589778-567a20f7-8f4d-4e17-8235-62e18847cfa2.png">
  Menu Registrasi
 <img src="https://user-images.githubusercontent.com/72756374/127590175-fa541a5d-e061-4e99-8187-4fd9bda6e97e.jpg">
