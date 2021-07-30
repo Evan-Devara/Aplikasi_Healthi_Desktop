@@ -1,4 +1,3 @@
-![Pembayaran](https://user-images.githubusercontent.com/72756374/127591174-4a95e109-2060-477d-accb-c73b3907a464.jpg)
 ## Aplikasi_Healthi_Desktop
 <p align="center">
  <img src="https://user-images.githubusercontent.com/72756374/127510787-a82c8bef-a705-427d-8ba8-3b732cfa1cd2.png" width="400" height="400">
