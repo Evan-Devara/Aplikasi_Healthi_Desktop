@@ -52,13 +52,13 @@ Saat membuka aplikasi ini akan ditampilkan dialog masuk, dimana sebagai awalan a
 <img src="https://user-images.githubusercontent.com/72756374/127591198-2c385c6e-bf71-4644-b16e-89faa9eb3d2e.jpg"></p>
 
 ## Screenshoot Relasi UI dengan Database
-<p align="center"> DATA BASE </p>
+<p align="center"> DATA BASE rumah_sakit </p>
 <p align="center"> <img src="https://user-images.githubusercontent.com/72756374/127591562-d0e241c6-ab6a-43f9-abb3-36e7bcd2eac7.JPG" ></p>
-<p align="center"> Tabel Registrasi
+<p align="center"> Tabel pasien
 <p align="center"> <img src="https://user-images.githubusercontent.com/72756374/127591876-b6ae41f1-0ee4-4400-a9fb-8a953844db69.jpg"></p>
-<p align="center"> Tabel Obat
+<p align="center"> Tabel pengambilan_obat
 <p align="center"> <img src="https://user-images.githubusercontent.com/72756374/127591947-690f0b63-9f2c-4735-b4d4-61474edfc7f4.jpg"></p>
-<p align="center"> Tabel Pembayaran
+<p align="center"> Tabel pembayaran
 <p align="center"> <img src="https://user-images.githubusercontent.com/72756374/127591952-0e47c8c8-0160-4f3c-8e3c-a88101382171.jpg"></p>
 
 
