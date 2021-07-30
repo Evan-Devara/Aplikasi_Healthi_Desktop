@@ -13,7 +13,13 @@ Aplikasi ini merupakan pengembangan dari prototype aplikasi Health.i di mobile m
 
 ## Fitur Aplikasi
 Aplikasi ini memiliki fitur seperti
- - Login
+ - Dialog Masuk Aplikasi
+ - Menu Utama yang terdiri dari :
+   - Menu Registrasi
+   - Menu Obat
+   - Menu Pasien
+
+
 
 
 ## Use Case
