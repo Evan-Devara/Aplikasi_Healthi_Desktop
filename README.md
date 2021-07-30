@@ -31,6 +31,7 @@ Men-menu tersebut sudah terkoneksi dengan database yang mana data akan ototmatis
 ## Screenshoot Aplikasi
 <p align="center">
  Dialog Masuk Aplikasi</p>
+Saat membuka aplikasi ini akan ditampilkan dialog masuk, dimana sebagai awalan aplikasi dan perlu menekan "MASUK" untuk masuk ke aplikasi
  <p align="center">
 <img src="https://user-images.githubusercontent.com/72756374/127589775-2c5784cc-5b63-4412-98f0-9801445a0a39.png"> </p>
  <p align="center">
