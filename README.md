@@ -51,7 +51,7 @@ Saat membuka aplikasi ini akan ditampilkan dialog masuk, dimana sebagai awalan a
  <p align="center">
 <img src="https://user-images.githubusercontent.com/72756374/127591198-2c385c6e-bf71-4644-b16e-89faa9eb3d2e.jpg"></p>
 
-## Screenshoot Relasi UI dengan Database
+## Screenshoot Koneksi Aplikasi Health.i dengan Database
 <p align="center"> DATA BASE rumah_sakit </p>
 <p align="center"> <img src="https://user-images.githubusercontent.com/72756374/127591562-d0e241c6-ab6a-43f9-abb3-36e7bcd2eac7.JPG" ></p>
 <p align="center"> Tabel pasien
