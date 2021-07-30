@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Dialog</class>
+ <widget class="QDialog" name="Dialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>900</width>
+    <height>713</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">*{
+	font-family:SF UI Text;
+	font-size:20px;
+	color:#3575FE;
+}
+QFrame
+{
+	background:#F4F5F7;
+}
+QPushButton
+{
+	background:#FFFFFF;
+	border-radius:10px;
+}
+QToolButton
+{
+	background:#3575FE;
+	border-radius:60px;
+}
+QPushButton
+{
+	color:#3575FE;
+}</string>
+  </property>
+  <widget class="QFrame" name="frame">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>901</width>
+     <height>861</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QFrame
+{
+	background:#333;
+}</string>
+   </property>
+   <property name="frameShape">
+    <enum>QFrame::StyledPanel</enum>
+   </property>
+   <property name="frameShadow">
+    <enum>QFrame::Raised</enum>
+   </property>
+   <widget class="QFrame" name="frame_2">
+    <property name="geometry">
+     <rect>
+      <x>60</x>
+      <y>0</y>
+      <width>841</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QFrame
+{
+	background:#FFFFFF;
+}</string>
+    </property>
+    <property name="frameShape">
+     <enum>QFrame::StyledPanel</enum>
+    </property>
+    <property name="frameShadow">
+     <enum>QFrame::Raised</enum>
+    </property>
+    <widget class="QLabel" name="label">
+     <property name="geometry">
+      <rect>
+       <x>20</x>
+       <y>10</y>
+       <width>111</width>
+       <height>31</height>
+      </rect>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">*{
+	font-family:aharoni;
+	font-size:24px;
+}</string>
+     </property>
+     <property name="text">
+      <string>Health.i</string>
+     </property>
+    </widget>
+   </widget>
+   <widget class="QFrame" name="frame_3">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>0</y>
+      <width>61</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QFrame
+{
+	background:#3575FE;
+}</string>
+    </property>
+    <property name="frameShape">
+     <enum>QFrame::StyledPanel</enum>
+    </property>
+    <property name="frameShadow">
+     <enum>QFrame::Raised</enum>
+    </property>
+    <widget class="QToolButton" name="toolButton">
+     <property name="geometry">
+      <rect>
+       <x>10</x>
+       <y>0</y>
+       <width>41</width>
+       <height>51</height>
+      </rect>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">QToolButton
+{
+	
+	image: url(:/images/logo.png);
+	background:#3575FE;
+	border-radius:60px;
+}</string>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+    </widget>
+   </widget>
+   <widget class="QToolButton" name="toolButton_3">
+    <property name="geometry">
+     <rect>
+      <x>390</x>
+      <y>110</y>
+      <width>121</width>
+      <height>121</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QToolButton
+{
+	background:#FFFFFF;
+	border-radius:60px;
+}
+*
+{
+	font-family:SF UI Text bold;
+	font-size:29px;
+	color:#3575FE;
+}</string>
+    </property>
+    <property name="text">
+     <string>Obat</string>
+    </property>
+   </widget>
+   <widget class="QFrame" name="frame_4">
+    <property name="geometry">
+     <rect>
+      <x>150</x>
+      <y>180</y>
+      <width>601</width>
+      <height>351</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>SF UI 57</family>
+      <pointsize>-1</pointsize>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QFrame
+{
+	background:#3575FE;
+	border-radius:10px;
+}
+QComboBox
+{
+	background:#FFFFFF;
+}
+</string>
+    </property>
+    <property name="frameShape">
+     <enum>QFrame::StyledPanel</enum>
+    </property>
+    <property name="frameShadow">
+     <enum>QFrame::Raised</enum>
+    </property>
+    <widget class="QLabel" name="label_4">
+     <property name="geometry">
+      <rect>
+       <x>60</x>
+       <y>220</y>
+       <width>91</width>
+       <height>41</height>
+      </rect>
+     </property>
+     <property name="font">
+      <font>
+       <family>SF UI 57 12</family>
+       <pointsize>-1</pointsize>
+      </font>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">*
+{
+	font-family:SF UI Text Bold;
+	font-size:16px;
+	color:#FFFFFF;
+}</string>
+     </property>
+     <property name="text">
+      <string>Nama Obat</string>
+     </property>
+    </widget>
+    <widget class="QLabel" name="label_2">
+     <property name="geometry">
+      <rect>
+       <x>60</x>
+       <y>140</y>
+       <width>131</width>
+       <height>41</height>
+      </rect>
+     </property>
+     <property name="font">
+      <font>
+       <family>SF UI 57 reguler</family>
+       <pointsize>-1</pointsize>
+      </font>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">*
+{
+	font-family:SF UI Text reguler;
+	font-size:16px;
+	color:#FFFFFF;
+	background:transparent;
+}</string>
+     </property>
+     <property name="text">
+      <string>Nama Pasien</string>
+     </property>
+    </widget>
+    <widget class="QLabel" name="label_3">
+     <property name="geometry">
+      <rect>
+       <x>60</x>
+       <y>180</y>
+       <width>131</width>
+       <height>41</height>
+      </rect>
+     </property>
+     <property name="font">
+      <font>
+       <family>SF UI 57 reguler</family>
+       <pointsize>-1</pointsize>
+      </font>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">*
+{
+	font-family:SF UI Text reguler;
+	font-size:16px;
+	color:#FFFFFF;
+	background:transparent;
+}</string>
+     </property>
+     <property name="text">
+      <string>Diagnosa Penyakit</string>
+     </property>
+    </widget>
+    <widget class="QLineEdit" name="lineEdit_2">
+     <property name="geometry">
+      <rect>
+       <x>209</x>
+       <y>230</y>
+       <width>331</width>
+       <height>22</height>
+      </rect>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">*{
+	font-family:SF UI Text;
+	font-size:14px;
+	color:#333;
+}</string>
+     </property>
+    </widget>
+    <widget class="QLabel" name="label_14">
+     <property name="geometry">
+      <rect>
+       <x>170</x>
+       <y>60</y>
+       <width>261</width>
+       <height>41</height>
+      </rect>
+     </property>
+     <property name="font">
+      <font>
+       <family>SF UI 57 reguler</family>
+       <pointsize>-1</pointsize>
+      </font>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">*
+{
+	font-family:SF UI Text reguler;
+	font-size:18px;
+	color:#FFFFFF;
+	background:transparent;
+}</string>
+     </property>
+     <property name="text">
+      <string>Inputkan data obat dengan baik</string>
+     </property>
+    </widget>
+    <widget class="QLabel" name="label_15">
+     <property name="geometry">
+      <rect>
+       <x>260</x>
+       <y>100</y>
+       <width>91</width>
+       <height>31</height>
+      </rect>
+     </property>
+     <property name="font">
+      <font>
+       <family>SF UI 57 reguler</family>
+       <pointsize>-1</pointsize>
+      </font>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">*
+{
+	font-family:SF UI Text reguler;
+	font-size:18px;
+	color:#FFFFFF;
+	background:transparent;
+}</string>
+     </property>
+     <property name="text">
+      <string>dan benar</string>
+     </property>
+    </widget>
+    <widget class="QLineEdit" name="lineEdit_11">
+     <property name="geometry">
+      <rect>
+       <x>210</x>
+       <y>190</y>
+       <width>331</width>
+       <height>22</height>
+      </rect>
+     </property>
+     <property name="font">
+      <font>
+       <family>SF UI 57</family>
+       <pointsize>-1</pointsize>
+      </font>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">*{
+	font-family:SF UI Text;
+	font-size:14px;
+	color:#333;
+}</string>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+    </widget>
+    <widget class="QComboBox" name="comboBox">
+     <property name="geometry">
+      <rect>
+       <x>210</x>
+       <y>150</y>
+       <width>331</width>
+       <height>22</height>
+      </rect>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">QComboBox
+{
+	background:#FFFFFF;
+	border-radius:0px;
+}
+QComboBox
+{
+	background:#FFFFFF;
+}
+
+*{
+	font-family:SF UI Text;
+	font-size:14px;
+	color:#333;
+}</string>
+     </property>
+     <item>
+      <property name="text">
+       <string>a</string>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>a</string>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>a</string>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>a</string>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>a</string>
+      </property>
+     </item>
+     <item>
+      <property name="text">
+       <string>a</string>
+      </property>
+     </item>
+    </widget>
+   </widget>
+   <widget class="QPushButton" name="pushButton_3">
+    <property name="geometry">
+     <rect>
+      <x>350</x>
+      <y>580</y>
+      <width>211</width>
+      <height>49</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>SF UI 57</family>
+      <pointsize>-1</pointsize>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton:hover
+{
+	color:#FFFFFF;
+	border-radius:10px;
+	background:#7CA5FF;
+}
+*{
+	font-size:18px;
+}
+QPushButton
+{
+	color:#FFFFFF;
+	background:#3575FE;
+}</string>
+    </property>
+    <property name="text">
+     <string>Ambil Obat</string>
+    </property>
+   </widget>
+   <zorder>frame_4</zorder>
+   <zorder>frame_2</zorder>
+   <zorder>frame_3</zorder>
+   <zorder>toolButton_3</zorder>
+   <zorder>pushButton_3</zorder>
+  </widget>
+ </widget>
+ <resources>
+  <include location="img/source.qrc"/>
+ </resources>
+ <connections/>
+</ui>

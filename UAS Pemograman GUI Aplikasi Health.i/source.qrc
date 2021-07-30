@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="images">
+    <file>card.png</file>
+    <file>ovo.png</file>
+    <file>obat.png</file>
+    <file>pembayaran.png</file>
+    <file>registrasi.png</file>
+    <file>rs.png</file>
+    <file>doctor1.png</file>
+    <file>logo.png</file>
+  </qresource>
+</RCC>
