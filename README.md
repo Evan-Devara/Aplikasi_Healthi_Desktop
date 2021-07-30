@@ -18,7 +18,7 @@ Aplikasi ini memiliki fitur seperti
    - Menu Registrasi
    - Menu Obat
    - Menu Pasien
-Men-menu tersebut sudah terkoneksi dengan database yang mana data akan ototmatis disimpan.
+Menu-menu tersebut sudah terkoneksi dengan database yang mana data akan ototmatis disimpan.
 
 ## Use Case
 <p align="center">
@@ -32,10 +32,13 @@ Men-menu tersebut sudah terkoneksi dengan database yang mana data akan ototmatis
 <p align="center">
  Dialog Masuk Aplikasi</p>
 Saat membuka aplikasi ini akan ditampilkan dialog masuk, dimana sebagai awalan aplikasi dan perlu menekan "MASUK" untuk masuk ke aplikasi
+
  <p align="center">
 <img src="https://user-images.githubusercontent.com/72756374/127589775-2c5784cc-5b63-4412-98f0-9801445a0a39.png"> </p>
  <p align="center">
  Menu Utama</p>
+ Ini merupakan tampulan dari menu utama, dimana terdapat pilihan sub menu lainnya berupa menu (registrasi, obat, pembayaran) yang dapat diakses oleh pengguna
+ 
  <p align="center">
 <img src="https://user-images.githubusercontent.com/72756374/127589778-567a20f7-8f4d-4e17-8235-62e18847cfa2.png"> </p>
  <p align="center">
@@ -51,7 +54,7 @@ Saat membuka aplikasi ini akan ditampilkan dialog masuk, dimana sebagai awalan a
  <p align="center">
 <img src="https://user-images.githubusercontent.com/72756374/127591198-2c385c6e-bf71-4644-b16e-89faa9eb3d2e.jpg"></p>
 
-## Screenshoot Koneksi Aplikasi Health.i dengan Database
+## Screenshoot Relasi UI dengan Database
 <p align="center"> DATA BASE rumah_sakit </p>
 <p align="center"> <img src="https://user-images.githubusercontent.com/72756374/127591562-d0e241c6-ab6a-43f9-abb3-36e7bcd2eac7.JPG" ></p>
 <p align="center"> Tabel pasien
