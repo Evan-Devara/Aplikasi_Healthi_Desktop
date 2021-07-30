@@ -31,15 +31,23 @@ Men-menu tersebut sudah terkoneksi dengan database yang mana data akan ototmatis
 ## Screenshoot Aplikasi
 <p align="center">
  Dialog Masuk Aplikasi
+ 
 <img src="https://user-images.githubusercontent.com/72756374/127589775-2c5784cc-5b63-4412-98f0-9801445a0a39.png">
-
+ 
  Menu Utama
+ 
 <img src="https://user-images.githubusercontent.com/72756374/127589778-567a20f7-8f4d-4e17-8235-62e18847cfa2.png">
+ 
  Menu Registrasi
+ 
 <img src="https://user-images.githubusercontent.com/72756374/127590175-fa541a5d-e061-4e99-8187-4fd9bda6e97e.jpg">
+ 
  Menu Obat
+ 
 <img src="https://user-images.githubusercontent.com/72756374/127590197-52b225e5-4c26-4ade-bcb7-1555302607d8.jpg">
+ 
  Menu Pembayaran
+ 
 <img src="https://user-images.githubusercontent.com/72756374/127590209-06a05c42-b9bd-4e85-9ae3-26e765a6dfeb.jpg">
  </p>
 
