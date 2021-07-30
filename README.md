@@ -31,15 +31,15 @@ Men-menu tersebut sudah terkoneksi dengan database yang mana data akan ototmatis
 ## Screenshoot Aplikasi
 <p align="center">
  Dialog Masuk Aplikasi
-![Tubes 1](https://user-images.githubusercontent.com/72756374/127589775-2c5784cc-5b63-4412-98f0-9801445a0a39.png)
+<img src=h"ttps://user-images.githubusercontent.com/72756374/127589775-2c5784cc-5b63-4412-98f0-9801445a0a39.png">
  Menu Utama
-![Tubes 2](https://user-images.githubusercontent.com/72756374/127589778-567a20f7-8f4d-4e17-8235-62e18847cfa2.png)
+<img src="https://user-images.githubusercontent.com/72756374/127589778-567a20f7-8f4d-4e17-8235-62e18847cfa2.png">
  Menu Registrasi
-![Regist](https://user-images.githubusercontent.com/72756374/127590175-fa541a5d-e061-4e99-8187-4fd9bda6e97e.jpg)
+<img src="https://user-images.githubusercontent.com/72756374/127590175-fa541a5d-e061-4e99-8187-4fd9bda6e97e.jpg">
  Menu Obat
-![Obat](https://user-images.githubusercontent.com/72756374/127590197-52b225e5-4c26-4ade-bcb7-1555302607d8.jpg)
+<img src="https://user-images.githubusercontent.com/72756374/127590197-52b225e5-4c26-4ade-bcb7-1555302607d8.jpg">
  Menu Pembayaran
-![Pembayaran](https://user-images.githubusercontent.com/72756374/127590209-06a05c42-b9bd-4e85-9ae3-26e765a6dfeb.jpg)
+<img src="https://user-images.githubusercontent.com/72756374/127590209-06a05c42-b9bd-4e85-9ae3-26e765a6dfeb.jpg">
  </p>
 
 
